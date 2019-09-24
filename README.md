@@ -1,4 +1,4 @@
-# Michael Aaron Herr's Compile Repository
+# Michael Aaron Herr's Compiled Repository
 
 Website: https://michaelaaronherr.github.io
 
